@@ -21,14 +21,17 @@ The project leverages **Gradio** for the user interface and **ctransformers** fo
 
 ```plaintext
 llama-2-7b-chat.ggmlv3.q3_K_L.bin  # Pre-trained model file for Llama-2 7B
+
+https://github.com/user-attachments/assets/842ac9a9-7f21-4a21-8343-1c1ded842733
+
+
 llamaCPU.py                        # Python script that powers the interaction
 requirements.txt                   # Python dependencies
 ```
 
 ---
-### Screenshot
-
-![Screenshot 1]()
+### Demo            
+https://github.com/user-attachments/assets/adcf7d5e-b16e-4a93-8824-0e2eaee0b6ea
 
 ---
 
